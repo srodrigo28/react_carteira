@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import Dasboard from './pages/Dasboard';
 
 ReactDOM.render(
-  <React.StrictMode>
+  <React.StrictMode> 
     <Dasboard />
   </React.StrictMode>,
   document.getElementById('root')
