@@ -1,11 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+import Dasboard from './pages/Dasboard';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Dasboard />
   </React.StrictMode>,
   document.getElementById('root')
 );
