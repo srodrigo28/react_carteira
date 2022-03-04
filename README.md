@@ -14,8 +14,11 @@
     * Pages
     * Estilos
 ### Dependendicas Usadas
+    * Emoji
+        * https://www.w3schools.com/html/html_emojis.asp
     * npm i styled-components | yarn add styled-components
     * npm i --save-dev @types/styled-components
+    * npm i react-switch
 ### Extensões
     * vscode-styled-components
 ### Ajuste vscode
