@@ -3,6 +3,10 @@
 ### Comandos
     * npx create-react-app app --template typescript
 ### Dependendicas Usadas
+    * npm i styled-components | yarn add styled-components
+    * npm i --save-dev @types/styled-components
+### Extensões
+    * vscode-styled-components
     
 
 
