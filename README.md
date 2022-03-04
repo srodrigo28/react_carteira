@@ -13,9 +13,10 @@
     * npm i --save-dev @types/styled-components
 ### Extensões
     * vscode-styled-components
+### Ajuste vscode
+    * settings.json  // esse ajuste organiza para não compactar estrutura de pasta
+        * "explorer.compactFolders": false,
     
-
-
 * Projeto finalizado
     * https://github.com/rodrigorgtic/minha-carteira-dashboard.git
 
