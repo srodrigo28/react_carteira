@@ -1,6 +1,6 @@
 import React  from "react";
 import { Grid, } from './styles';
-import HeaderMain from "../HeaderMain";
+import MainHeader from "../MainHeader";
 import Aside from "../Aside";
 import Content from "../Content";
 
@@ -8,7 +8,7 @@ const Layout: React.FC = () => {
     return (
         <Grid>
             {/* <h1>Layout</h1> */}
-            <HeaderMain/>
+            <MainHeader/>
             <Aside/>
             <Content/>
         </Grid>
