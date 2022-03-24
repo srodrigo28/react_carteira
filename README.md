@@ -18,7 +18,7 @@
         * https://www.w3schools.com/html/html_emojis.asp
     * npm i styled-components | yarn add styled-components
     * npm i --save-dev @types/styled-components
-    * npm i react-switch
+    * npm i react-switch@5.0.1
 ### Extensões
     * vscode-styled-components
 ### Ajuste vscode
